@@ -1,4 +1,4 @@
-package ru.netology.conditional;
+package ru.netology;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ConditionalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConditionalApplication.class, args);
 	}
-
 }
